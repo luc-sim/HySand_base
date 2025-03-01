@@ -7,5 +7,5 @@ This repository contains python files:
 - a model file for a single-surface model with density and anisotropy dependent dilation as described in the theoretical article.
 - a data file to run all illustrative tests of the theoretical article, as well as all air-pluviated on Karlsruhe fine sand available from Wichtmann's website (https://www.torsten-wichtmann.de/).
 - a test command file containing triaxial test routine adapted for the use of HySand.
-- a plotting file containing plotting routines.
+- a plotting file containing plotting routines (newplot.py).
 - a file to download in the HyperDrive working format Wichtmann's data.
