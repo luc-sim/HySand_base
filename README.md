@@ -8,4 +8,4 @@ This repository contains python files:
 - two data files: one to run all illustrative tests of the theoretical article; another to run all air-pluviated tests on Karlsruhe fine sand available from Prof. Torsten Wichtmann's website (https://www.torsten-wichtmann.de/) for the appraisal article.
 - a test command file containing triaxial test routine adapted for the use of HySand.
 - a plotting file containing plotting routines (newplot.py).
-- a file to download in the HyperDrive working format Wichtmann's data.
+- two files to work in the HyperDrive working format with Prof. Wichtmann's data.
